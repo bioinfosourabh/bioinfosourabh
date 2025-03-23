@@ -23,7 +23,7 @@ I specialize in high-throughput genomic analysis, precision diagnostics, and clo
 
 ---
 
-## Selected Projects
+## Projects
 
 - [`TrioExome-Analysis`](https://github.com/bioinfosourabh/TrioExome-Analysis):  
   Clinical pipeline for trio-based whole exome sequencing with automated annotation and priortization.
