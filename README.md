@@ -3,7 +3,7 @@
 **Bioinformatics Scientist | AIIMS Delhi**  
 📧 bioinfosourabh@gmail.com  
 🌐 [LinkedIn](https://linkedin.com/in/sourabh-kumar-bioinfo)  • [ORCID](https://orcid.org/)  
-📸 Outside of research, I also pursue photography as a creative outlet.
+📸 Outside of research, I also pursue photography .
 
 ---
 
