@@ -53,7 +53,7 @@ I specialize in high-throughput genomic analysis, precision diagnostics, and clo
 
 5.	Kumar, S., Sharma, J., Sardar, R., Jain, V., Dhua, A. K., Yadav, D. K., ... & Goel, P. (2025). KMT2C Polymorphism in Familial Hypospadias. Indian Journal of Pediatrics, 1-3
 
-
+6.	Goel, Prabudh, et al. "Chromosomal Microarray Analysis in Spina Bifida: Genetic Heterogeneity and Its Clinical Implications".  Journal of Indian Association of Pediatric Surgeons
 ---
 
 ## Contact
