@@ -58,5 +58,5 @@ I specialize in high-throughput genomic analysis, precision diagnostics, and clo
 
 ## Contact
 
-Feel free to connect regarding research collaborations, data analysis services, or photography.  
+Feel free to connect .  
 📬 bioinfosourabh@gmail.com  
