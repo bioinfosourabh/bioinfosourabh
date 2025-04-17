@@ -35,6 +35,37 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white)
 ![google-colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&color=525252)
 
+
+<!-- 🔬 Computational Genomics -->
+![WES](https://img.shields.io/badge/WES-%23007ACC.svg?style=flat-square&logo=data&logoColor=white)
+![WGS](https://img.shields.io/badge/WGS-%233776AB.svg?style=flat-square&logo=databricks&logoColor=white)
+![CNV/SV](https://img.shields.io/badge/CNV/SV-%2363708A.svg?style=flat-square&logo=chart-bar&logoColor=white)
+![Variant Calling](https://img.shields.io/badge/Variant%20Calling-%23965BC3.svg?style=flat-square&logo=microscope&logoColor=white)
+
+<!-- 🧪 NGS Pipeline Development -->
+![Nextflow](https://img.shields.io/badge/Nextflow-%2300B5AD.svg?style=flat-square&logo=nextdotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Singularity](https://img.shields.io/badge/Singularity-%232C2255.svg?style=flat-square&logo=linux&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![HPC](https://img.shields.io/badge/HPC-%23007396.svg?style=flat-square&logo=superuser&logoColor=white)
+
+<!-- 🤖 ML in Genomics -->
+![XGBoost](https://img.shields.io/badge/XGBoost-%23F7931E.svg?style=flat-square&logo=python&logoColor=white)
+![GNN](https://img.shields.io/badge/GNN-%236F42C1.svg?style=flat-square&logo=neural&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%23007ACC.svg?style=flat-square&logo=tensorflow&logoColor=white)
+![AI-Scoring](https://img.shields.io/badge/AI--based%20Scoring-%23FF2D20.svg?style=flat-square&logo=brain&logoColor=white)
+
+<!-- 🧬 Structural Bioinformatics -->
+![GROMACS](https://img.shields.io/badge/GROMACS-%2315A5C2.svg?style=flat-square&logo=cube&logoColor=white)
+![Mutational Modeling](https://img.shields.io/badge/Mutational%20Modeling-%23A8B6C8.svg?style=flat-square&logo=structure&logoColor=white)
+![Molecular Docking](https://img.shields.io/badge/Docking-%23C779D0.svg?style=flat-square&logo=magnet&logoColor=white)
+
+<!-- 🔗 Multi-Omics Integration -->
+![scRNA-Seq](https://img.shields.io/badge/scRNA--Seq-%234F4F4F.svg?style=flat-square&logo=networkx&logoColor=white)
+![RNA-Seq](https://img.shields.io/badge/RNA--Seq-%234285F4.svg?style=flat-square&logo=rstudio&logoColor=white)
+![16S Metagenomics](https://img.shields.io/badge/16S%20Metagenomics-%23009688.svg?style=flat-square&logo=dna&logoColor=white)
+![ChIP-Seq](https://img.shields.io/badge/ChIP--Seq-%236278C4.svg?style=flat-square&logo=history&logoColor=white)
+
 --------------------------------------------------------------------------------
 
 
