@@ -26,7 +26,6 @@
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white)
 
@@ -49,8 +48,6 @@
 ![AI-Scoring](https://img.shields.io/badge/AI--based%20Scoring-%23FF2D20.svg?style=flat-square&logo=brain&logoColor=white)
 
 <!-- 🧬 Structural Bioinformatics -->
-![GROMACS](https://img.shields.io/badge/GROMACS-%2315A5C2.svg?style=flat-square&logo=cube&logoColor=white)
-![Mutational Modeling](https://img.shields.io/badge/Mutational%20Modeling-%23A8B6C8.svg?style=flat-square&logo=structure&logoColor=white)
 ![Molecular Docking](https://img.shields.io/badge/Docking-%23C779D0.svg?style=flat-square&logo=magnet&logoColor=white)
 ![scRNA-Seq](https://img.shields.io/badge/scRNA--Seq-%234F4F4F.svg?style=flat-square&logo=networkx&logoColor=white)
 ![RNA-Seq](https://img.shields.io/badge/RNA--Seq-%234285F4.svg?style=flat-square&logo=rstudio&logoColor=white)
