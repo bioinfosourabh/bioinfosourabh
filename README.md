@@ -1,6 +1,6 @@
 # Sourabh Kumar
 
-**Bioinformatics Scientist | AIIMS Delhi**  
+**Bioinformatics Scientist | Metropolis Healthcare | AIIMS Delhi**  
 📧 bioinfosourabh@gmail.com  
 🌐 [LinkedIn](https://linkedin.com/in/sourabh-kumar-bioinfo)  • [ORCID](https://orcid.org/)  
 📸 Outside of research, I also pursue photography/filmaking .
