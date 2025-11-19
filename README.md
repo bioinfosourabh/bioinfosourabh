@@ -84,17 +84,22 @@ I specialize in high-throughput genomic analysis, precision diagnostics, and clo
 
 ## Publications
 
-1.	Kumar, Sourabh, et al. "Exploring Familial Hypospadias: Genetic Insights from Copy Number Variants in a Quad Family." (2024). [https://doi.org/10.21203/rs.3.rs-4843906/v1]
+•	Kumar, Sourabh, et al. "Exploring Familial Hypospadias: Genetic Insights from Copy Number Variants in a Quad Family." (2024). [https://doi.org/10.21203/rs.3.rs-4843906/v1]
 
-2.	Phugat, S., Sharma, J., Kumar, S., Jain, V., Dhua, A. K., Yadav, D. K., ... & Goel, P. (2024). Genetic landscape of congenital pouch colon: systematic review and functional enrichment study. Pediatric Surgery International, 40(1), 314.
+•	Phugat, S., Sharma, J., Kumar, S., Jain, V., Dhua, A. K., Yadav, D. K., ... & Goel, P. (2024). Genetic landscape of congenital pouch colon: systematic review and functional enrichment study. Pediatric Surgery International, 40(1), 314.
 
-3.	Goel, P., Sharma, M., Kaushik, H., Kumar, S., Singh, H., Jain, V., ... & Agarwala, S. (2024). Genetic Markers of Spina Bifida in an Indian Cohort. Journal of Indian Association of Pediatric Surgeons, 29(5), 529-535.
+•	Goel, P., Sharma, M., Kaushik, H., Kumar, S., Singh, H., Jain, V., ... & Agarwala, S. (2024). Genetic Markers of Spina Bifida in an Indian Cohort. Journal of Indian Association of Pediatric Surgeons, 29(5), 529-535.
 
-4.	Sharma, J., Sharma, M., Kumar, S., Kaushik, H., Pandey, H., Lal, D., ... & Goel, P. (2025). Genetic Markers of Spina Bifida: Enrichment of Pathogenic Variants and Variants of Uncertain Significance. Journal of Indian Association of Pediatric Surgeons, 30(2), 163-169.
+•	Sharma, J., Sharma, M., Kumar, S., Kaushik, H., Pandey, H., Lal, D., ... & Goel, P. (2025). Genetic Markers of Spina Bifida: Enrichment of Pathogenic Variants and Variants of Uncertain Significance. Journal of Indian Association of Pediatric Surgeons, 30(2), 163-169.
 
-5.	Kumar, S., Sharma, J., Sardar, R., Jain, V., Dhua, A. K., Yadav, D. K., ... & Goel, P. (2025). KMT2C Polymorphism in Familial Hypospadias. Indian Journal of Pediatrics, 1-3
+•	Kumar, S., Sharma, J., Sardar, R., Jain, V., Dhua, A. K., Yadav, D. K., ... & Goel, P. (2025). KMT2C Polymorphism in Familial Hypospadias. Indian Journal of Pediatrics, 1-3
 
-6.	Goel, Prabudh, et al. "Chromosomal Microarray Analysis in Spina Bifida: Genetic Heterogeneity and Its Clinical Implications".  Journal of Indian Association of Pediatric Surgeons
+•	Goel, Prabudh, et al. "Chromosomal Microarray Analysis in Spina Bifida: Genetic Heterogeneity and Its Clinical Implications".  Journal of Indian Association of Pediatric Surgeons
+
+•	Kumar, Sourabh, et al. "Novel CTNNB1 Gene Mutations Reveal Critical Pathogenic Mechanisms in Pediatric Hepatoblastoma". Pediatric Surgery International 
+
+•	Book Chapter: "Deep-genomics: Deep Learning Based Analysis of Genome Sequenced Data for Identification of Gene Alternation" for a book entitled “Artificial Intelligence (AI) in Cell and Genetic Engineering” (https://www.springer.com/series/7651), published by Springer Protocols.
+
 ---
 
 ## Contact
